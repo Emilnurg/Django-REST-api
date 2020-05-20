@@ -22,7 +22,7 @@
 - документация по API
 
 
-Решение:
+# Решение:
 1. Create virtualenv and register to it
 
 2. pip install -r requirements.txt
