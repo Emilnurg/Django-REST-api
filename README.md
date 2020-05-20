@@ -20,3 +20,13 @@
 - исходный код приложения в github (только на github, публичный репозиторий)
 - инструкция по разворачиванию приложения (в docker или локально)
 - документация по API
+
+
+Решение:
+1. Create virtualenv and register to it
+
+2. pip install -r requirements.txt
+
+3. python manage.py runserver
+
+4. See http://127.0.0.1:8000/redoc/
